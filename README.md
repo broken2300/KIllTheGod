@@ -1,3 +1,6 @@
+诛仙专用
+远离外挂，快乐游戏
+
 # These script use autohotkey environment
 Instruction:
 1.  convert the script into exe
