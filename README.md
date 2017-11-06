@@ -29,7 +29,7 @@ NumPad1: change ADS setting
 
 NumPad2: change AutoFire setting
 
-NumPad3: change telescope setting
+NumPad9: change telescope setting
 
 NumPad4: M4 and SCAL compensation
 
